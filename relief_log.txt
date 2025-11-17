@@ -1,0 +1,50 @@
+Resource ADDED | Food: 12000 | Medicine: 15000 | Water: 30000 | Blankets: 15000
+Resource ADDED | Food: 356000 | Medicine: 644300 | Water: 239900 | Blankets: 598810
+Truck #1 dispatched to Larkana | Distance: 50 km | Urgency: Severe | Resources: Food:150000, Medicine:5000, Water:250000, Blankets:50000
+Resource ADDED | Food: 59991120 | Medicine: 65982000 | Water: 21189000 | Blankets: 78891100
+Truck #3 dispatched to Hyderabad | Distance: 50 km | Urgency: Low | Resources: Food:25000, Medicine:500, Water:50000, Blankets:6250
+Truck #1 dispatched to Sargodha | Distance: 50 km | Urgency: Medium | Resources: Food:20000, Medicine:500, Water:30000, Blankets:5000
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
